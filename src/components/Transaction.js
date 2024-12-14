@@ -3,7 +3,7 @@ import React from "react";
 /**
  * A Transaction component to render a single transaction
  * @param {transaction} prop - an object with a 'text' and 'amount' property
- * @returns a JSX element with a list item containing the transaction text and amount
+ * @returns a JSX element with a list item containing the  specific transaction text and the amount
  */
 
 export const Transaction = ({transaction}) => {
